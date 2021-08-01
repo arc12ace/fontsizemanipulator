@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+    margin: 0px;
+}
+.note{
+    color: rgb(233, 113, 33);
+    font-size: 20px;
+}
+.copyright_footer{
+    position: fixed;
+    color: rgb(19, 18, 18);
+    background-color: rgb(243, 237, 237);
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Nunito Sans', sans-serif;
+}
+canvas{
+    border: 3px dotted white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+body{
+    background-color: black;
+}
